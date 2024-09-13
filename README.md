@@ -20,6 +20,14 @@ You might benefit from our service if you:
 # Why does it exist
 To empower Python developers and enthusiasts to bring their ideas to life as professional, distributable applications, opening new opportunities for sharing, monetization, and impact in various fields.
 
+# Why not use a web app
+Here are some use-cases where a web-app is not feasible, and a desktop solution might be better:
+- Limited internet connection (even then, an offline PWA could be considered).
+- Strict security requirements that necessitate a local, isolated environment.
+- Need for a GPU to process data, host an LLM, generate graphics, etc.
+- Ability to read data from a hardware sensor that needs specific drivers (not browser compatible).
+- High-performance requirements that exceed what web technologies can deliver.
+- 
 # How does it work
 A comprehensive service to transform your Python scripts into polished, professional desktop applications. Here's what we offer:
 1.	UI Creation:
